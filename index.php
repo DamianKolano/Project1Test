@@ -7,11 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Moj pierwszy projekt</title>
     </head>
     <body>
         <?php
-        echo 'Test 69'
+        echo 'Strona testowa php'
         ?>
     </body>
 </html>
