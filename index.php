@@ -7,12 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Moj pierwszy projekt - klon</title>
+        <title>Moj pierwszy projekt</title>
     </head>
     <body>
         <?php
         echo 'Strona testowa php';
-        echo "<img src=\"8jPj3gk.jpg\" style=\"float: center\" >";
+		echo 'blaasdasdsad';
         ?>
     </body>
 </html>
