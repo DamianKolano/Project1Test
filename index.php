@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Strona testowa php'
+        echo 'Strona testowa php';
+        echo "<img src=\"8jPj3gk.jpg\" style=\"float: center\" >";
         ?>
     </body>
 </html>
