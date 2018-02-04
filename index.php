@@ -11,8 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Strona testowa php';
-		echo 'blaasdasdsad';
+        echo 'Strona testowa php<br>';
+        echo 'blaasdasdsad<br>';
+        echo 'Tekst 3<br>';
         ?>
     </body>
 </html>
