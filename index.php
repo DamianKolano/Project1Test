@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Moj pierwszy projekt</title>
+        <title>Moj pierwszy projekt - klon</title>
     </head>
     <body>
         <?php
