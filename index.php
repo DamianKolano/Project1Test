@@ -13,7 +13,6 @@ and open the template in the editor.
         <?php
         echo 'Strona testowa php';
         echo "<img src=\"8jPj3gk.jpg\" style=\"float: center\" >";
-        echo 'Jak sie masz? bdbdbdbdbdbdd';
         ?>
     </body>
 </html>
